@@ -75,20 +75,18 @@ h1{
 }
 
 .Description{
-    width: 75%;
+    width: 80%;
     height: auto;
     margin: 0 auto;
     padding: 10px;
-    position: relative;
-    font-size: 1.2vw;
+    font-size: 1.4vw;
+    position: relative; 
     color: white;
 }
 
-#reviewsHeader{
-  
+#reviewsHeader{ 
     padding: 10px;
-    text-align: center;
-    
+    text-align: center;   
 }
 
 #reviewsHeader h1{
@@ -102,9 +100,9 @@ h1{
     margin: 0 auto;
     padding: 10px;
     position: relative;
-    border-top: 2px solid black;
-    
+    border-top: 2px solid black;  
 }
+
 .mainTitle{
     padding-top: 4%;
     text-align: center;
@@ -113,6 +111,11 @@ h1{
 #reviewCard{
     padding: 10px;
 }
+
+.card-text {
+    color: black;
+}
+
 .navbar a {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -183,7 +186,8 @@ h1{
         width: 80%; /* Can be in percentage also. */
     }
     .Description{
-        font-size: 3.8vw;
+        width: 100%;
+        font-size: 4vw;
     }
     .carouselImg{
         width: 100%; /* Can be in percentage also. */
