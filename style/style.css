@@ -1,7 +1,7 @@
 body{
     background-color: #494949;
     padding-top: 8vw; 
-    background-image: url(https://elijohnson565.github.io/RustysRVs/images/leaves.jpg);
+    background-image: url(../images/leaves.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,8 +165,9 @@ h1{
 
 @media only screen and (max-width: 600px) {
     body{
-       
+        background-image: url(../images/leavesPhone.jpg);
         padding-top: 20vw; 
+        background-size: 100% 100%;
     }
 
     h1{
