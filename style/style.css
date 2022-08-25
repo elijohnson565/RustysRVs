@@ -70,6 +70,7 @@ h1{
     padding: 10px;
     position: relative;
     background-color: rgba(0, 0, 0, 0.534);
+    font-size: 1.8vw;
     
 }
 
@@ -211,11 +212,11 @@ h1{
         width: 100%; /* Can be in percentage also. */
   
     }
-    #Winnie{
-        font-size: 7vw;
-    }
 
-    
+    .name{
+        font-size: 5vw;
+    }
+ 
     #reviewsHeader h1{
         font-size: 8vw;
     }
