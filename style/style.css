@@ -29,6 +29,11 @@ h1{
     
 }
 
+.top-number{
+    font-size: 2vw;
+    padding-right: 10%;
+}
+
 .navbar a{
     opacity: 100%;
 }
@@ -71,7 +76,7 @@ h1{
     position: relative;
     background-color: rgba(0, 0, 0, 0.534);
     font-size: 1.8vw;
-    
+    text-align: center;
 }
 
 .rvs{
@@ -180,7 +185,7 @@ h1{
 @media only screen and (max-width: 600px) {
     body{
         background-image: url(../images/leavesPhone.jpg);
-        padding-top: 20vw; 
+        padding-top: 25vw; 
        
     }
 
@@ -191,6 +196,12 @@ h1{
 
     .navbar-brand{
         font-size: 8vw;
+    }
+
+    .top-number{
+        font-size: 4vw;
+        padding-right: 1vw;
+        text-align: center;
     }
 
     .fleet-text{
