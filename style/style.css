@@ -31,7 +31,11 @@ h1{
 
 .top-number{
     font-size: 2vw;
-    padding-right: 10%;
+    padding-right: 5%;
+}
+
+.email{
+   color: rgb(41, 168, 73);
 }
 
 .navbar a{
