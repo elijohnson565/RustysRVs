@@ -2,9 +2,9 @@ body{
     background-color: #494949;
     padding-top: 8vw; 
     background-image: url(../images/natureBackground/natureBackground2.jpg);
-    
+    background-attachment: fixed;
     background-repeat: no-repeat;
-
+   
     
 }
 
