@@ -4,6 +4,7 @@ body{
     background-image: url(../images/natureBackground/natureBackground2.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
    
     
 }
@@ -192,7 +193,9 @@ h1{
     body{
         background-image: url(../images/natureBackground/natureBackground2.jpg);
         padding-top: 25vw; 
-             
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     h1{
