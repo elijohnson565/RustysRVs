@@ -190,10 +190,9 @@ h1{
 @media only screen and (max-width: 600px) {
  
     body{
-        background-image: url(../images/natureBackground/natureBackground2.jpg) no-repeat center;
+        background-image: url(../images/natureBackground/natureBackground2.jpg);
         padding-top: 25vw; 
-        
-        
+             
     }
 
     h1{
