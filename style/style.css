@@ -201,6 +201,7 @@ h1{
         background-size: cover;
         will-change: transform; 
         z-index: -1;
+        padding-top: 25vw;
         
     }
     h1{
