@@ -33,11 +33,10 @@ h1{
 
 .booking{
     margin: 0 auto;
-    font-size: 1.9vw;
+    font-size: 2vw;
     color: lightblue;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    -webkit-text-stroke-width: 2.3px;
-    -webkit-text-stroke-color: black;  
+
 }
 
 .booking:hover{
@@ -254,6 +253,17 @@ h1{
     .carouselImg{
         width: 100%; /* Can be in percentage also. */
   
+    }
+
+    .booking{
+        margin: 0 auto;
+        font-size: 4vw;
+        color: lightblue;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .booking:hover{
+        font-size: 5vw;
     }
 
     .name{
