@@ -229,6 +229,10 @@ h1{
         font-size: 8vw;
     }
 
+    .nav-linkFont{
+        font-size: 6vw;
+    }
+
     .top-number{
         font-size: 4vw;
         padding-right: 1vw;
